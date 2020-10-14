@@ -255,7 +255,7 @@ a {
 
   color: #fff;
 
-  height: 140px;
+  height: 50px;
 
   
 
@@ -265,7 +265,7 @@ a {
 
 }
 
-.container {
+.container-footer {
 
   float: center;
 
@@ -279,27 +279,8 @@ a {
 
   padding-top: 2px;
 
-  list-style-type: none;
-
 }
 
-.coloma{
-
-  padding-bottom: 10px;
-
-  font-size:14px;
-
-  height:70px;
-
-}
-
-.coloma li{
-
-  list-style-type: none;
-
-  text-align: center;
-
-}
 
 .footer_copyright{
 
